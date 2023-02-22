@@ -1,0 +1,32 @@
+{
+  "ideas": [
+    {
+      "idee": "Ajouter une carte avec toutes les entreprises",
+      "id": 0
+    },
+    {
+      "idee": "Rechercher des entreprises avec l'api Sirene V3",
+      "id": 1
+    },
+    {
+      "idee": "Améliorer le design global grâce aux retours utilisateurs",
+      "id": 2
+    },
+    {
+      "idee": "Donner à l'utilisateur la possibilité d'afficher les données d'une entreprise à sa guise",
+      "id": 3
+    },
+    {
+      "idee": "Ajouter une intégration de la fiche entreprise dans différents CRM (Odoo, SalesForce...).",
+      "id": 4
+    },
+    {
+      "idee": "Ajout de personnalisations pour l'utilisateur",
+      "id": 5
+    },
+    {
+      "idee": "manger avec pierre mardi",
+      "id": 6
+    }
+  ]
+}
